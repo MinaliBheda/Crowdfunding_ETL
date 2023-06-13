@@ -6,6 +6,7 @@ Project 2
 # 2 : Resource files : MinaliBheda/Crowdfunding_ETL/Resources/
 
     Import data from contacts.xlsx and crowdfunding.xlsx
+    Save data in category.csv, subcategory.csv , campaign.csv and contacts.csv for creating crowdfunding database
 
 # 3 : Jupyter Notebook : MinaliBheda/Crowdfunding_ETL/ETL_Mini_Project_MBheda
 
@@ -21,6 +22,13 @@ Project 2
     
     Part 4 : Create the Crowdfunding DataFrame 
       Coded by Minali Bheda , Irina Schultz and Florencia Martin
-      
+ 
+ # 4 : MinaliBheda/Crowdfunding_ETL/crowdfunding_ERD
+
+     Entity Relationship Diagram (ERD) for Crowdfunding Database
+
+ # 5 : MinaliBheda/Crowdfunding_ETL/crowdfunding_db_schema
+
+     Schema to create Tables for Crowdfunding Database
  
     
